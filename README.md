@@ -1,74 +1,42 @@
 # SQC Website
-📌 DSA Progress Tracker
 
-A minimal and responsive DSA Topic Tracker built using pure HTML.
-This project visually represents a Computer Science student’s progress in learning Data Structures and Algorithms.
+🚀 DSA Progress Tracker Pro
 
-🎯 Purpose
-
-As a BTech Computer Science student, tracking DSA topics helps maintain consistency and clarity during preparation.
-This website provides a simple, clean, and structured view of commonly studied DSA topics.
+An interactive DSA tracking web app to help Computer Science students monitor their progress across core Data Structures & Algorithms topics.
 
 🛠️ Tech Stack
 
 HTML5
-(No CSS frameworks, no JavaScript)
 
-📚 Topics Covered
+CSS3
 
-Arrays
+Tailwind CSS (CDN)
 
-Strings
+Vanilla JavaScript
 
-Linked Lists
-
-Stacks
-
-Queues
-
-Trees
-
-Graphs
-
-Dynamic Programming
-
-Each topic is displayed with a visual status indicator to represent progress.
+LocalStorage
 
 ✨ Features
 
-Clean and minimal layout
+Topic-wise DSA progress tracking
 
-Structured semantic HTML
+Global progress percentage dashboard
 
-Beginner-friendly and easy to understand
+Status states: Not Started / In Progress / Completed
 
-Responsive-friendly structure
+Dark mode & Neon mode
 
-Scalable design for future enhancements
+Search and filter functionality
 
-🚀 Future Improvements
+Progress persistence using LocalStorage
 
-Add CSS styling for enhanced UI
+📚 Topics Included
 
-Introduce JavaScript for dynamic progress tracking
+Arrays, Strings, Linked Lists, Stacks & Queues, Recursion, Trees, Graphs, Dynamic Programming, Heaps, Tries, Bit Manipulation, Greedy
 
-Backend integration to save user progress
-
-📁 Project Structure
-DSA-Progress-Tracker/
-│
+📁 Structure
 ├── index.html
 └── README.md
-
-🧠 Learning Outcome
-
-This project helped reinforce:
-
-Proper HTML structure
-
-Semantic elements
-
-Content organization for real-world projects
 
 👩‍💻 Author
 
